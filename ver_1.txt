@@ -1,1 +1,1 @@
-./Debug/main.cpp.o ./Debug/cDices.cpp.o ./Debug/cTable.cpp.o
+./Debug/main.cpp.o ./Debug/cTable.cpp.o ./Debug/cDices.cpp.o   

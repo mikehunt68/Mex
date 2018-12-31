@@ -4,8 +4,6 @@
 using namespace std;
 int main(int argc, char **argv) 
 { 
-			cTable tab ;
-			for (auto it=tab.getTable().begin();it !=tab.getTable().end();++it)
-						cout << it->getdvalue() << "\t" << it->getovalue() << endl;
-				
+			cTable *table = new cTable() ;
+				int a = cin.peek() ;
 }
